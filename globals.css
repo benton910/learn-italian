@@ -1,0 +1,15 @@
+/*  
+    GLOBAL STYLING for the application
+    This will be the main file we store styling in
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Manrope", sans-serif;
+  }
